@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">midtermq1</string>
+    <string-array name="operations">
+        <item> Addition </item>
+        <item> Subtraction </item>
+        <item> Multiplication </item>
+        <item> Division </item>
+    </string-array>
+</resources>
